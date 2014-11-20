@@ -7,7 +7,7 @@ MvvmCross plugin which adds Encryption support to cross-platform projects.
 Current Platform Support:
 * Android (API Level 14)
 
-#Install & Use
+## Install & Use
 * NuGet: https://www.nuget.org/packages/Keiser.MvxPlugins.Crypto/
 
 ## TODO
