@@ -1,4 +1,4 @@
-﻿namespace Keiser.Mvx.Plugins.Crypto
+﻿namespace Keiser.MvxPlugins.Crypto
 {
     using Cirrious.CrossCore;
     using Cirrious.CrossCore.Plugins;

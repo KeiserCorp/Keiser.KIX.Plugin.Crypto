@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keiser.Mvx.Plugins.Crypto", "Keiser.Mvx.Plugins.Crypto\Keiser.Mvx.Plugins.Crypto.csproj", "{E4ADB11C-BC0E-4544-AD75-C235889107D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keiser.MvxPlugins.Crypto", "Keiser.MvxPlugins.Crypto\Keiser.MvxPlugins.Crypto.csproj", "{E4ADB11C-BC0E-4544-AD75-C235889107D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keiser.Mvx.Plugins.Crypto.Droid", "Keiser.Mvx.Plugins.Crypto.Droid\Keiser.Mvx.Plugins.Crypto.Droid.csproj", "{0A01F2E8-1751-49E1-AC72-A695B5E620DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keiser.MvxPlugins.Crypto.Droid", "Keiser.MvxPlugins.Crypto.Droid\Keiser.MvxPlugins.Crypto.Droid.csproj", "{0A01F2E8-1751-49E1-AC72-A695B5E620DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -9,8 +9,8 @@ Current Platform Support:
 
 ## Use
 Manual Install from DLLs
-* Add Keiser.Mvx.Plugins.Crypto.dll to all projects
-* Add Keiser.Mvx.Plugins.Crypto.ClientName.dll to all clients 
+* Add Keiser.MvxPlugins.Crypto.dll to all projects
+* Add Keiser.MvxPlugins.Crypto.ClientName.dll to all clients 
 
 ## TODO
 * Add support for iOS, Windows Store, and Windows Phone platforms

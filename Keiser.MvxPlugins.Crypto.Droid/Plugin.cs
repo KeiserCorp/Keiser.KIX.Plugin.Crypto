@@ -1,4 +1,4 @@
-﻿namespace Keiser.Mvx.Plugins.Crypto.Droid
+﻿namespace Keiser.MvxPlugins.Crypto.Droid
 {
     using Cirrious.CrossCore;
     using Cirrious.CrossCore.Plugins;

@@ -1,4 +1,4 @@
-namespace Keiser.Mvx.Plugins.Crypto
+namespace Keiser.MvxPlugins.Crypto
 {
     using System.Security.Cryptography;
 

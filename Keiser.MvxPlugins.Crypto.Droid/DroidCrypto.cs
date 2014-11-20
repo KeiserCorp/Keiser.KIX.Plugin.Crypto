@@ -1,4 +1,4 @@
-namespace Keiser.Mvx.Plugins.Crypto.Droid
+namespace Keiser.MvxPlugins.Crypto.Droid
 {
     public class DroidCrypto : Crypto
     {
