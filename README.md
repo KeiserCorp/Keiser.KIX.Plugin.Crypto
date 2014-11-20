@@ -1,8 +1,17 @@
-Keiser.KIX.Plugin.Crypto
+Mvx Encryption Plugin for MvvmCross
 ========================
-MvvMCross plugin which adds Cryptography support to cross-platform projects.
 
-**Project Status:**
-* Project file has structure for including support on all Xamarin targetable platforms
-* Currently only supports SHA1 function for Android
-* Pull requests to add support for other platforms and functions are welcome
+## Project
+MvvmCross plugin which adds Encryption support to cross-platform projects.
+
+Current Platform Support:
+* Android (API Level 14)
+
+## Use
+Manual Install from DLLs
+* Add Keiser.Mvx.Plugins.Crypto.dll to all projects
+* Add Keiser.Mvx.Plugins.Crypto.ClientName.dll to all clients 
+
+## TODO
+* Add support for iOS, Windows Store, and Windows Phone platforms
+* Add additional Encryption functions (currently only SHA1 supported)

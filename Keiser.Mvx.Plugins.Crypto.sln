@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keiser.Mvx.Plugins.Crypto", "Keiser.Mvx.Plugins.Crypto\Keiser.Mvx.Plugins.Crypto.csproj", "{E4ADB11C-BC0E-4544-AD75-C235889107D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keiser.Mvx.Plugins.Crypto.Droid", "Keiser.Mvx.Plugins.Crypto.Droid\Keiser.Mvx.Plugins.Crypto.Droid.csproj", "{0A01F2E8-1751-49E1-AC72-A695B5E620DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4ADB11C-BC0E-4544-AD75-C235889107D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4ADB11C-BC0E-4544-AD75-C235889107D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4ADB11C-BC0E-4544-AD75-C235889107D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4ADB11C-BC0E-4544-AD75-C235889107D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A01F2E8-1751-49E1-AC72-A695B5E620DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A01F2E8-1751-49E1-AC72-A695B5E620DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A01F2E8-1751-49E1-AC72-A695B5E620DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A01F2E8-1751-49E1-AC72-A695B5E620DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
