@@ -2,7 +2,7 @@
 <package >
 	<metadata>
 		<id>Keiser.MvxPlugins.Crypto</id>
-		<version>1.0.1</version>
+		<version>1.0.4</version>
 		<title>Keiser.MvxPlugins.Crypto</title>
 		<authors>Keiser Corp.</authors>
 		<owners>Keiser Corp.</owners>
@@ -11,7 +11,7 @@
 		<requireLicenseAcceptance>true</requireLicenseAcceptance>
 		<description>This package contains the 'Crypto' plugin for MvvmCross v3.</description>
 		<copyright>Copyright 2014</copyright>
-		<tags>mvvm mvvmcross xamarin monodroid monotouch wpf windows8 winrt netcore wp wpdev windowsphone keiser</tags>
+		<tags>xamarin mvvmcross mvx keiser encryption</tags>
 		<dependencies>
 			<dependency id="MvvmCross.HotTuna.CrossCore" version="3.2.1" />
 		</dependencies>
@@ -21,15 +21,15 @@
 		<file src="..\Keiser.MvxPlugins.Crypto\bin\Release\Keiser.MvxPlugins.Crypto.dll" target="lib\portable-net45+win+wp80+MonoAndroid10+MonoTouch10\Keiser.MvxPlugins.Crypto.dll" />
 
 		<!-- droid -->
-		<file src="..\Keiser.MvxPlugins.Crypto\bin\Release\Keiser.MvxPlugins.Crypto.dll" target="lib\MonoAndroid17\Keiser.MvxPlugins.Crypto.dll" />
-		<file src="..\Keiser.MvxPlugins.Crypto.Droid\bin\Release\Keiser.MvxPlugins.Crypto.Droid.dll" target="lib\MonoAndroid17\Keiser.MvxPlugins.Crypto.Droid.dll" />
-		<file src="BootstrapContent\CryptoPluginBootstrap.cs.pp" target="content\MonoAndroid17\Bootstrap\CryptoPluginBootstrap.cs.pp" />
+		<file src="..\Keiser.MvxPlugins.Crypto\bin\Release\Keiser.MvxPlugins.Crypto.dll" target="lib\MonoAndroid\Keiser.MvxPlugins.Crypto.dll" />
+		<file src="..\Keiser.MvxPlugins.Crypto.Droid\bin\Release\Keiser.MvxPlugins.Crypto.Droid.dll" target="lib\MonoAndroid\Keiser.MvxPlugins.Crypto.Droid.dll" />
+		<file src="BootstrapContent\CryptoPluginBootstrap.cs.pp" target="content\MonoAndroid\Bootstrap\CryptoPluginBootstrap.cs.pp" />
 		
 		<!-- touch -->
 		<!--
-		<file src="..\Keiser.MvxPlugins.Crypto\bin\Release\Keiser.MvxPlugins.Crypto.dll" target="lib\MonoAndroid17\Keiser.MvxPlugins.Crypto.dll" />
-		<file src="..\Keiser.MvxPlugins.Crypto.Touch\bin\Release\Keiser.MvxPlugins.Crypto.Touch.dll" target="lib\MonoAndroid17\Keiser.MvxPlugins.Crypto.Touch.dll" />
-		<file src="BootstrapContent\CryptoTouchPluginBootstrap.cs.pp" target="content\MonoTouch40\Bootstrap\CryptoTouchPluginBootstrap.cs.pp" />
+		<file src="..\Keiser.MvxPlugins.Crypto\bin\Release\Keiser.MvxPlugins.Crypto.dll" target="lib\MonoTouch\Keiser.MvxPlugins.Crypto.dll" />
+		<file src="..\Keiser.MvxPlugins.Crypto.Touch\bin\Release\Keiser.MvxPlugins.Crypto.Touch.dll" target="lib\MonoTouch\Keiser.MvxPlugins.Crypto.Touch.dll" />
+		<file src="BootstrapContent\CryptoTouchPluginBootstrap.cs.pp" target="content\MonoTouch\Bootstrap\CryptoPluginBootstrap.cs.pp" />
 		-->
 	</files>
 </package>

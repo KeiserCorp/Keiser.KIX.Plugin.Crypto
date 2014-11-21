@@ -3,7 +3,7 @@ using Cirrious.CrossCore.Plugins;
 namespace $rootnamespace$.Bootstrap
 {
     public class CryptoPluginBootstrap
-        : MvxLoaderPluginBootstrapAction<Keiser.MvxPlugins.Crypto.PluginLoader, Keiser.MvxPlugins.Crypto>
+        : MvxLoaderPluginBootstrapAction<Keiser.MvxPlugins.Crypto.PluginLoader, Keiser.MvxPlugins.Crypto.Touch.Plugin>
     {
     }
 }

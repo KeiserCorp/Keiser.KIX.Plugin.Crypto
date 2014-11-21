@@ -1,1 +1,1 @@
-..\..\nuget push Keiser.MvxPlugins.Crypto.1.0.1.nupkg
+..\..\nuget push Keiser.MvxPlugins.Crypto.1.0.4.nupkg
