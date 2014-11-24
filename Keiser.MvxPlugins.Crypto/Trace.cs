@@ -1,4 +1,4 @@
-﻿namespace Keiser.KIX.Plugin.Socket
+﻿namespace Keiser.MvxPlugins.Crypto
 {
     using System;
     using System.Diagnostics;
